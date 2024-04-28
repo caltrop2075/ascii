@@ -1,5 +1,9 @@
 # ascii
-ASCII utilities
+
+ASCII Stuff
+
+ASCII tables
+conversions to & from ASCII
 
 ascii-dump.sh
 --------------------------------------------------------------------------------
